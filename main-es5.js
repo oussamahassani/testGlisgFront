@@ -2439,9 +2439,9 @@
 
       var environment = {
         production: false,
-        baseUrl: 'https://long-stingy-penalty.glitch.me:1988',
-        awsUrl: 'https://long-stingy-penalty.glitch.me:1988/',
-        uri: 'https://long-stingy-penalty.glitch.me:1988/api/files/upload/',
+        baseUrl: 'https://long-stingy-penalty.glitch.me',
+        awsUrl: 'https://long-stingy-penalty.glitch.me/',
+        uri: 'https://long-stingy-penalty.glitch.me/api/files/upload/',
         secret: 'miaow'
       };
       /***/
